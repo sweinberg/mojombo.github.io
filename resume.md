@@ -4,13 +4,49 @@ title: Resume
 permalink: /resume/
 ---
 
-## Experience
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 
-WebJeda is a web designing company
-.
-.
-.
+   <!-- Typekit -->
+   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
+   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
 
-**Disclaimer:** This website is under constant modification.
-If you find something isn't right then,
-I might be doing some change in the back-end.
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+<div class="site">
+  <div class="title">
+    <a href="/">Sam Weinberg</a>
+    <a class="extra" href="/">home</a>
+    <a class="extra" href="/resume">resume</a>
+  </div>
+  
+  {{ content }}
+  
+  <div class="footer">
+    <div class="contact">
+      <p>
+        Sam Weinberg<br />
+        hello@samweinberg.com
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://twitter.com/samiswine/">twitter.com/samiswine</a><br />
+        <a href="https://www.are.na/sam-weinberg">are.na/sam-weinberg</a><br />
+         <a href="http://github.com/sweinberg/">github.com/sweinberg</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
