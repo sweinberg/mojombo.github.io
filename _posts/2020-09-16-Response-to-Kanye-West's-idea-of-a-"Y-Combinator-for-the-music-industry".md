@@ -1,5 +1,5 @@
 # Response to Kanye West's idea of a "Y Combinator for the music industry"
-Posted on `September 16, 2020`
+`Posted on September 16, 2020`
 
 ---
 
